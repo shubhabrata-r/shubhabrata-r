@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shubhabrata-r
-- 👀 I’m interested in learning to code and be a software developer
-- 🌱 I’m currently learning Angular JS
+- 👀 I’m interested in designing and developing Software Applications
+- 🌱 I’m currently learning LLD and System Design
 - 💞️ I’m looking to collaborate on coding practices, code check in strategies, etc.
-- 📫 How to reach me ...
+- 📫 Reach me on LinkedIn: https://linkedin.com/in/shubha-brata-roy
 
 <!---
 shubhabrata-r/shubhabrata-r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
